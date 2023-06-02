@@ -1,3 +1,3 @@
-# Digital-assistant-to-the-EE-Engineer-and-ee-students
+# Digital-assistant-to-the-EE-engineer-and-students
 
 Please download Photos document and attach to the py file.
